@@ -1,7 +1,7 @@
 # React-Lab-Exercise-12-A-Simulating-a-Simple-SPA-Using-React
 
-# Name : Moulishwar G
-# Register Number : 2305001020
+# Name : Pranav K
+# Register Number : 2305001026
 
 # Aim:
 To create a simple Single Page Application (SPA) using React in which users can navigate between Home, About, Contact, Courses, and Student pages without reloading the entire webpage.
